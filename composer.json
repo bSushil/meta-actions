@@ -1,5 +1,5 @@
 {
-    "name": "sspl/yii2-meta",
+    "name": "sspl/actions",
     "description": "Yii 2 Meta. Finds and lists actions in controllers/models/modules",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
