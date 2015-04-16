@@ -9,12 +9,10 @@
         {
             "name": "Sushil Bajimaya",
             "email": "sushil.bajimaya@gmail.com",
-            "homepage": "https://github.com/bSushil/yii2-meta"
+            "homepage": "https://github.com/bSushil"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "sspl\\meta\\": ""
