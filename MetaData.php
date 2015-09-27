@@ -18,7 +18,7 @@
 * @license BSD   
 */
 
-namespace SSPL\meta;
+namespace sspl\meta;
 
 use Yii;
 use yii\base\Component;
