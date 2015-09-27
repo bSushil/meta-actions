@@ -1,5 +1,5 @@
 {
-    "name": "sspl/meta",
+    "name": "bsushil/meta",
     "description": "Yii 2 Meta. Finds and lists actions in controllers/models/modules",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
@@ -10,12 +10,13 @@
         {
             "name": "Sushil Bajimaya",
             "email": "sushil.bajimaya@gmail.com",
-            "homepage": "https://github.com/bSushil"
+            "homepage": "https://github.com/bSushil",
+            "role" : "Developer"
         }
     ],
     "autoload": {
         "psr-4": {
-            "bSushil\\meta\\": ""
+            "sspl\\meta\\": ""
         }
     }
 }
