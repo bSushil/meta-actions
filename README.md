@@ -12,13 +12,13 @@ This extension is based upon MetaData extension for Yii 1.x created by Vitaliy S
 Either run
 
 ```
-php composer.phar require --prefer-dist sspl/meta-actios "*"
+php composer.phar require --prefer-dist SSPL/meta "*"
 ```
 
 or add
 
 ```
-"sspl/meta-actions": "*"
+"sspl/meta": "*"
 ```
 
 to the require section of your `composer.json` file.

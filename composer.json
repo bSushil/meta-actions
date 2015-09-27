@@ -1,5 +1,5 @@
 {
-    "name": "sspl/meta-actions",
+    "name": "SSPL/meta",
     "description": "Yii 2 Meta. Finds and lists actions in controllers/models/modules",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
@@ -15,7 +15,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "sspl\\meta\\": ""
+            "SSPL\\meta\\": ""
         }
     }
 }
