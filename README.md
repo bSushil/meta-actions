@@ -12,13 +12,13 @@ This extension is based upon MetaData extension for Yii 1.x created by Vitaliy S
 Either run
 
 ```
-php composer.phar require --prefer-dist SSPL/meta "*"
+php composer.phar require --prefer-dist bsushil/meta "dev-master"
 ```
 
 or add
 
 ```
-"sspl/meta": "*"
+"bsushil/meta": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
