@@ -1,19 +1,21 @@
 {
     "name": "bsushil/meta",
     "description": "Yii 2 Meta. Finds and lists actions in controllers/models/modules",
-    "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
-    "homepage": "https://github.com/bSushil/yii2-meta",
-    "license": "BSD-3-Clause",
+    "version": "1.0.0",
     "minimum-stability": "stable",
+    "license": "MIT",
+    "keywords": ["yii2","extension"],
+    "homepage": "https://github.com/bSushil/meta-actions",
     "authors": [
         {
             "name": "Sushil Bajimaya",
             "email": "sushil.bajimaya@gmail.com",
-            "homepage": "https://github.com/bSushil",
             "role" : "Developer"
         }
     ],
+    "require": {
+        "php": ">=5.4.0"
+    },
     "autoload": {
         "psr-4": {
             "sspl\\meta\\": ""
